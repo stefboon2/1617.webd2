@@ -1,0 +1,213 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.color_1{
+	color:hsla(8,96%,71%,1.00)
+}
+
+.color_2{
+	color:orangered;
+}
+
+.color_3{
+	color:lightblue
+}
+.color_4{
+	color:hsla(0,0%,50%,1.00);
+}
+
+.background_1{
+	background-color:hsla(8,96%,71%,1.00);
+	padding:12px;
+	margin-top:12px;
+	margin-bottom:12px;
+	width:130px
+}
+.background_2{
+	background-image: url(assets/TDL-Pattern-01.jpg);
+}
+
+.icons_1 img{
+	background-color:black;
+	width:90px;
+	border-radius:360px;
+}
+
+.icons_1 img:hover{
+	background-color:hsla(8,96%,71%,1.00);
+	cursor:pointer;
+	
+}
+.icons_2 img{
+	width:40px;
+	text-align: center;
+	background-color:hsla(0,0%,50%,1.00);
+	border-radius:360px;
+}
+.icons_2 img:hover{
+	background-color:lightblue;
+	cursor:pointer
+}
+
+.icons_3 img{
+		width:60px;
+	text-align: center;
+	background-color:hsla(8,96%,71%,1.00);
+	border-radius:360px;
+}
+.box_4{margin:12px;
+margin-bottom:24px;}
+
+
+
+
+.button_7{
+	background-color:lightblue;
+	width:144px;
+	padding:3px;
+	margin-right:11px;
+	text-align:center;
+	border: solid white 1px;
+	text-decoration:none;
+	color:white;
+	margin-top: 20px;
+cursor: pointer}
+
+.button_7:hover{
+	background-color:white;
+	border:1px lightblue solid;
+	color:lightblue;
+}
+
+.button_6{
+	border:solid lightgray 1px;
+	cursor: pointer;
+	width:144px;
+	padding:4px;
+	text-align: center}
+
+.button_6:hover{text-decoration:underline;}
+
+
+.button_5{
+	background-color:white;
+	font-size:26px;
+	text-align:center;
+	padding-top:4px;
+	margin-left:40px;
+	padding-bottom:5px;
+	padding-left:11px;
+	padding-right:11px;
+	width: 25px;
+	border-radius:400px;
+	text-decoration:none;
+	color:hsla(8,96%,71%,1.00);
+	font-weight:500;}
+
+.button_5:hover{
+	background-color:transparent;
+	color:white;
+	border:solid 1px white}
+
+.button_4{
+	background-color:white;
+	color:hsla(8,96%,71%,1.00);
+	font-size:13px;
+	text-align:center;
+	border-radius:360px;
+	padding-top:11px;
+	padding-bottom:10px;
+	padding-left:15px;
+	padding-right:15px;
+	margin-right:30px;
+	border:solid 1px hsla(8,96%,71%,1.00);
+width: 100px;
+margin-left:12px;}
+
+.button_4:hover{
+	color:white;
+	background-color:hsla(8,96%,71%,1.00);
+	border:solid 1px white}
+
+.button_3{	
+	font-size:12px;
+	text-align:center;
+	border-radius:360px;
+	padding-top:11px;
+	padding-bottom:10px;
+	padding-left:15px;
+	padding-right:15px;
+	color:hsla(8,96%,71%,1.00);
+	border:solid white 1px;
+	background-color: white;
+	margin-right:30px;
+	width:100px;}
+
+.button_3:hover{
+	background-color:hsla(8,96%,71%,1.00);
+	color:white;
+	border:solid 1px white;
+	cursor:pointer;}
+
+.button_2{
+	font-size:12px;
+	text-align:center;
+	border-radius:360px;
+	padding-top:8px;
+	padding-bottom:8px;
+	padding-left:15px;
+	padding-right:15px;
+	margin-top:15px;
+	background-color:hsla(8,96%,71%,1.00);
+	width:100px;
+color:white;
+cursor:pointer;
+margin-left:12px;}
+
+.button_2:hover{
+background-color:white;
+border:solid red 1px;
+color:red}
+
+button{margin-left:12px;}
+
+
+.box_{
+	text-align:center;
+	background:hsla(0,0%,100%,0.70);
+	margin:12px;
+	border-bottom:1px lightgrey solid;
+	border-right:1px solid lightgrey;
+	border-top:solid 1px hsla(0,0%,0%,0.05);
+	border-left:solid 1px hsla(0,0%,0%,0.05);
+	height:150px;}
+
+.box_:hover{
+	border:1px lightgray solid;
+	background-color:white;}
+
+
+.box__2 {
+height:300px;
+text-align:center;
+padding-bottom:30px;
+background-color:hsla(8,96%,71%,1.00);
+color:white;
+text-decoration-color: white;
+margin:12px;
+padding-top:30px;}
+
+
+.post_{
+height:150px;
+border:hsla(8,96%,71%,1.00) solid 1px;
+text-align:left;
+color:dimgray;
+font-size:14px;
+margin:12px;
+padding:12px;}
+
+
+
+
+
